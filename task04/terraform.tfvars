@@ -10,7 +10,7 @@ rg_name                 = "cmtr-82c341d6-mod4-rg"
 subnet_name             = "frontend"
 subnet_address_prefixes = ["10.0.1.0/24"]
 tags = {
-  Creator = "name_surname@epam.com"
+  Creator = "dmytro_povarchuk@epam.com"
 }
 vm_disk_name       = "disk_name"
 vm_image_publisher = "Canonical"
