@@ -88,6 +88,7 @@ variable "vm_password" {
   type        = string
   sensitive   = "true"
   description = "Password for the admin"
+  default     = "Sobaka1991!Sobaka1991!"
 }
 
 variable "vm_sa_type" {
